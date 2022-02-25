@@ -1,0 +1,16 @@
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\bin\Debug\Day9.exe.config
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\bin\Debug\Day9.exe
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\bin\Debug\Day9.pdb
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.csproj.AssemblyReference.cache
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.csproj.SuggestedBindingRedirects.cache
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.Form1.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.Properties.Resources.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.csproj.GenerateResource.cache
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.exe
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.pdb
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.FrmMsg.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.Form2.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.ColorMixer.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.DigitalClock.resources
+D:\Work\Instructor\C#\Intake42\9 Months\Day9\Day9\obj\Debug\Day9.Form3.resources
